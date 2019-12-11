@@ -11,8 +11,8 @@ const Routes = () => (
 	
 	<Router history={history}>
 		<Switch>
-			<Route component={Home} exact path='/'/>
-			<Route component={NotFoundPages}/>
+			<Route component={Home} path='*/'/>
+			
 		</Switch>
 	</Router>
 )
