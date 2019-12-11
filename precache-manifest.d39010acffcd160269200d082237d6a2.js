@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7549d164d41489fb2ad017a32a98ad91",
+    "revision": "0b62508103d6f3c287916d5dcff14f0f",
     "url": "/acaibot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/acaibot/static/css/2.667739f9.chunk.css"
   },
   {
-    "revision": "4cc5e343920c0c2751de",
+    "revision": "874342e5a17bea53f3f1",
     "url": "/acaibot/static/css/main.12eb45f2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/acaibot/static/js/2.b31a95f5.chunk.js.LICENSE"
   },
   {
-    "revision": "4cc5e343920c0c2751de",
-    "url": "/acaibot/static/js/main.ce219b52.chunk.js"
+    "revision": "874342e5a17bea53f3f1",
+    "url": "/acaibot/static/js/main.93a469e7.chunk.js"
   },
   {
     "revision": "5b222e9feaa2299eb5e2",
