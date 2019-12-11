@@ -1,0 +1,44 @@
+.copo{
+    display: flex;
+    width: 90px;
+    min-width: 70px;
+    height: 130px;
+    padding: 3px;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+}
+
+
+.label-preco{
+    color: azure;
+    padding: 2px;
+    font-weight: bold;
+    font: 18px 'Roboto', sans-serif;
+}
+
+.label-tamanho{
+    color: lightgray;
+    background-color: #940D94;
+    padding: 5px;
+    font: 14px 'Roboto', sans-serif;
+}
+
+.img-pequeno {
+    width: 38px;
+    height: 38px;
+    background: url("../../../assets/pequeno.png") no-repeat center ;
+}
+
+.img-medio {
+    width: 48px;
+    height: 48px;
+    background: url("../../../assets/medio.png") no-repeat center ;
+}
+
+.img-grande {
+    width: 58px;
+    height: 58px;
+    background: url("../../../assets/grande.png") no-repeat center ;
+}

@@ -1,0 +1,25 @@
+.sidebar-header{
+    height: 100%;
+    background: url("../../../assets/acai-background.jpg") no-repeat center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.sidebar-title{
+
+    font: 3rem Montserrat, sans-serifs;
+    text-align: center;
+    color: #ece5dd;
+    font-size: 2em;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, .75);
+}
+
+.sidebar-title-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}

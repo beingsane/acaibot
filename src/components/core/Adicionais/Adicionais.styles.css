@@ -1,0 +1,30 @@
+.adicionais-container{
+    background-color: rgba(39,13,39, 1);
+    width: 95%;
+    height: 70%;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0,0,0, 0.3);
+}
+
+.adicionais-title{
+    color: azure;
+    text-align: left;
+    font: 1.5em 'Montserrat', sans-serif;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, .7);
+}
+
+.adicionais-list{
+    height: 40vh;
+    padding: 10px;
+}
+
+ul > li {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    color: azure;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 0.1em;
+}
