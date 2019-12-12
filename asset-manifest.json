@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/acaibot/static/css/main.12eb45f2.chunk.css",
-    "main.js": "/acaibot/static/js/main.a761ada4.chunk.js",
-    "main.js.map": "/acaibot/static/js/main.a761ada4.chunk.js.map",
+    "main.js": "/acaibot/static/js/main.c2dc13eb.chunk.js",
+    "main.js.map": "/acaibot/static/js/main.c2dc13eb.chunk.js.map",
     "runtime-main.js": "/acaibot/static/js/runtime-main.9965b67f.js",
     "runtime-main.js.map": "/acaibot/static/js/runtime-main.9965b67f.js.map",
     "static/css/2.667739f9.chunk.css": "/acaibot/static/css/2.667739f9.chunk.css",
-    "static/js/2.b31a95f5.chunk.js": "/acaibot/static/js/2.b31a95f5.chunk.js",
-    "static/js/2.b31a95f5.chunk.js.map": "/acaibot/static/js/2.b31a95f5.chunk.js.map",
+    "static/js/2.0172480a.chunk.js": "/acaibot/static/js/2.0172480a.chunk.js",
+    "static/js/2.0172480a.chunk.js.map": "/acaibot/static/js/2.0172480a.chunk.js.map",
     "index.html": "/acaibot/index.html",
-    "precache-manifest.10cd67a5bf2e8f98331428243bff63f4.js": "/acaibot/precache-manifest.10cd67a5bf2e8f98331428243bff63f4.js",
+    "precache-manifest.89d7d281e68ed4c8fa779a396af5d343.js": "/acaibot/precache-manifest.89d7d281e68ed4c8fa779a396af5d343.js",
     "service-worker.js": "/acaibot/service-worker.js",
     "static/css/2.667739f9.chunk.css.map": "/acaibot/static/css/2.667739f9.chunk.css.map",
     "static/css/main.12eb45f2.chunk.css.map": "/acaibot/static/css/main.12eb45f2.chunk.css.map",
-    "static/js/2.b31a95f5.chunk.js.LICENSE": "/acaibot/static/js/2.b31a95f5.chunk.js.LICENSE",
+    "static/js/2.0172480a.chunk.js.LICENSE": "/acaibot/static/js/2.0172480a.chunk.js.LICENSE",
     "static/media/SidebarHeader.styles.css": "/acaibot/static/media/acai-background.8512ab3f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9965b67f.js",
     "static/css/2.667739f9.chunk.css",
-    "static/js/2.b31a95f5.chunk.js",
+    "static/js/2.0172480a.chunk.js",
     "static/css/main.12eb45f2.chunk.css",
-    "static/js/main.a761ada4.chunk.js"
+    "static/js/main.c2dc13eb.chunk.js"
   ]
 }
